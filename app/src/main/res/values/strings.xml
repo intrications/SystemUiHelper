@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SystemUiHelper</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Press any button to toggle state</string>
+    <string name="action_github">Open Github repo</string>
+</resources>
