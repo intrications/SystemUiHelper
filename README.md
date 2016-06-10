@@ -3,6 +3,8 @@ SystemUiHelper gist from Chris Banes and Roman Nurik as an Android Library.
 https://gist.github.com/chrisbanes/73de18faffca571f7292
 https://chris.banes.me/2014/08/29/systemuihelper/
 
+[![Release](https://jitpack.io/v/intrications/SystemUiHelper.svg)](https://jitpack.io/#intrications/SystemUiHelper)
+
 Step 1: Add jitpack to your build.gradle at the end of repositories:
 
 	repositories {
